@@ -1,0 +1,2 @@
+# note-easy
+Manage notes
